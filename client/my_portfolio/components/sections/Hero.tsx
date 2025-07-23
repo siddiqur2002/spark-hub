@@ -56,7 +56,7 @@ export function Hero() {
       </div>
 
       {/* Scroll Indicator */}
-      <div className="absolute bottom-0 lg:bottom-8 left-1/2 transform -translate-x-1/2 z-20">
+      <div className="absolute bottom-8 lg:bottom-8 left-1/2 transform -translate-x-1/2 z-20">
         <button
           onClick={scrollToNext}
           className="animate-bounce text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors duration-300"

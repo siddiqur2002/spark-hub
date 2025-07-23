@@ -17,7 +17,7 @@ function CardMesh({ title, description, github, live }: ProjectCard3DProps) {
   const [hovered, setHovered] = useState(false);
 
   // এখানে cards.jpg texture লোড করো
-  const texture = useLoader(TextureLoader, '/card5.jpg');
+  const texture = useLoader(TextureLoader, '/card4.jpg');
 
   const { rotation } = useSpring({
     rotation: hovered ? [0, 0.2, 0] : [0, 0, 0],
