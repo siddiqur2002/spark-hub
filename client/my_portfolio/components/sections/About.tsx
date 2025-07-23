@@ -10,9 +10,9 @@ const features = [
   },
   {
     icon: Palette,
-    title: "UI/UX Design",
+    title: "Frontend Development",
     description:
-      "Creating intuitive and beautiful user interfaces with a focus on user experience and accessibility.",
+      "I craft pixel-perfect, responsive interfaces that turn ideas into delightful user experiences.",
   },
   {
     icon: Zap,
@@ -22,9 +22,9 @@ const features = [
   },
   {
     icon: Users,
-    title: "Team Collaboration",
+    title: "Backend Development",
     description:
-      "Strong communication skills and experience working in agile development environments.",
+      "I build robust, scalable backends that keep applications secure, fast, and reliable behind the scenes.",
   },
 ];
 
